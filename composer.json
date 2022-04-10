@@ -4,9 +4,7 @@
     "type": "library",
 	"keywords": ["laravel", "helper", "slug"],
     "license": "MIT",
-	"require": {
-        "laravel/laravel": "6"
-    },
+	"require": {},
     "authors": [
         {
             "name": "DevNull-IR",
