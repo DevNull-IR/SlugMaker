@@ -2,12 +2,15 @@
     "name": "devnull-ir/slugmaker",
     "description": "Create a slug from the title",
     "type": "library",
-    "require": {
-        "laravel/laravel": "5.*"
+	"keywords": ["laravel", "helper", "slug"],
+    "license": "MIT",
+	"require": {
+        "laravel/laravel": "6"
     },
     "authors": [
         {
-            "name": "DevNull-IR"
+            "name": "DevNull-IR",
+			"email": "alishahbazpor110@gmail.com"
         }
     ],
 	"autoload": {
@@ -18,6 +21,5 @@
 			"app/Helpers/helpers.php"
 		]
 	},
-    "license": "MIT",
     "minimum-stability": "dev"
 }
