@@ -3,7 +3,7 @@
     "description": "Create a slug from the title",
     "type": "library",
     "require": {
-        "laravel/laravel": "6"
+        "laravel/laravel": "5.*"
     },
     "authors": [
         {
