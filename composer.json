@@ -18,5 +18,6 @@
 			"app/Helpers/helpers.php"
 		]
 	},
+    "license": "MIT",
     "minimum-stability": "dev"
 }
