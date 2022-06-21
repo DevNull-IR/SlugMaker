@@ -1,5 +1,4 @@
 {
-    "version": 2,
     "name": "devnull-ir/slugmaker",
     "description": "Create a slug from the title",
     "type": "library",
