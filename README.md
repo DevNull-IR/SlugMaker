@@ -1,17 +1,17 @@
 # SlugMaker
-Create a slug from the title
+Creates a slug from a string
 
 
 # install
 
 `composer require devnull-ir/slugmaker`
 
-# Sample
+# Examples
 
 ```php
 slugMaker('This Test');
 ```
-Execute: `This-Test`
+Output: `This-Test`
 
 --------
 ```php
@@ -20,5 +20,5 @@ slugMaker('This Test',[
 ]);
 ```
 
-Execute: `This*Test`
+Output: `This*Test`
 
